@@ -15,4 +15,4 @@ index = input_to_index
 
 move(board, index, character = "X")
 
-display_board(board, input_to_index, move)
+display_board(board)
